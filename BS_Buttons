@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <title>Bootstrap - One framework, for every resolution</title>
+        <meta charset="utf-8" />
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-7">
+                    <hr />
+
+                    <button type="button" class="btn btn-primary">click here</button>
+                    <button type="button" class="btn btn-info">click here</button>
+                    <button type="button" class="btn btn-secondary">click here</button>
+                    <button type="button" class="btn btn-success">click here</button>
+                    <button type="button" class="btn btn-warning">click here</button>
+                    <button type="button" class="btn btn-danger">click here</button>
+                    <button type="button" class="btn btn-light">click here</button>
+                    <button type="button" class="btn btn-dark">click here</button>
+
+                    <hr />
+
+                    <button type="button" class="btn btn-outline-primary">click here</button>
+                    <button type="button" class="btn btn-outline-info">click here</button>
+                    <button type="button" class="btn btn-outline-secondary">click here</button>
+                    <button type="button" class="btn btn-outline-success">click here</button>
+                    <button type="button" class="btn btn-outline-warning">click here</button>
+                    <button type="button" class="btn btn-outline-danger">click here</button>
+                    <button type="button" class="btn btn-outline-light">click here</button>
+                    <button type="button" class="btn btn-outline-dark">click here</button>
+
+                    <hr />
+
+                    <button type="button" class="btn btn-outline-primary">click here</button>
+                    <button type="submit" class="btn btn-outline-primary">click here</button>
+                    <a href="#" class="btn btn-outline-primary">click here</a>
+                    <input type="button" class="btn btn-outline-primary" name="" value="click here" />
+
+                    <hr />
+
+                    <button type="button" class="btn btn-primary btn-sm">click here</button>
+                    <button type="button" class="btn btn-primary">click here</button>
+                    <button type="button" class="btn btn-primary btn-lg">click here</button>
+
+                    <hr />
+
+                    <button type="button" class="btn btn-primary btn-block">click here</button>
+
+                    <hr />
+
+                    <button type="button" class="btn btn-primary" disabled>click here</button>
+
+                    <hr />
+
+                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                        <label class="btn btn-primary">
+                            <input type="radio" name="gender" value="Male" /> Male
+                        </label>
+                        <label class="btn btn-primary">
+                            <input type="radio" name="gender" value="Female" /> Female
+                        </label>
+                    </div>
+
+                    <hr />
+                    
+                </div>
+                <div class="col-sm-5">
+                    <h1>Maharashtra government formation LIVE: Speaker's post point of contention between NCP, Congress</h1>
+
+                    <p>Will Maharashtra finally get a new government today? The Shiv Sena, the Nationalist Congress Party (NCP) and the Congress have been working on a prospective coalition. Maharashtra is currently under President's Rule, which was imposed earlier this month after the two parties that won the state election together -- the Sena and the BJP -- disagreed on a key issue and so couldn't form a government together. Stay tuned to this live blog for the latest updates from Maharashtra.</p>
+
+                    <ul class="list-unstyled">
+                        <li>keyword domains</li>
+                        <li>content and keyword density</li>
+                        <li>site code and structure</li>
+                        <li>onsite optimization</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    </body>
+</html>
